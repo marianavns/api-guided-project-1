@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "name": "Pong",
+        "release": 1972,
+        "genre": "esportes",
+        "mode": ["jogador único", "vários jogadores"],
+        "designer": "Allan Alcorn"
+    },
+    {
+        "id": "2",
+        "name": "Star Wars",
+        "release": 1983,
+        "genre": "atirador",
+        "mode": "jogador único",
+        "designer": "Mike Hally"
+    },
+    {
+        "id": "3",
+        "name": "Raiders Of The Lost Ark",
+        "release": 1982,
+        "genre": "aventura",
+        "mode": "jogador único",
+        "designer": "Howard Scott Warshaw"
+    },
+    {
+        "id": "4",
+        "name": "Street Racer",
+        "release": 1977,
+        "genre": "corrida",
+        "mode": ["jogador único", "vários jogadores"],
+        "designer": "Larry Kaplan"
+    },
+    {
+        "id": "5",
+        "name": "Breakout",
+        "release": 1976,
+        "genre": "ação",
+        "mode": "alternado",
+        "designer": ["Nolan Bushnell", "Steve Bristow", "Steve Wozniak"]
+    },
+    {
+        "id": "6",
+        "name": "Space Invaders",
+        "release": 1978,
+        "genre": "atirador",
+        "mode": ["jogador único", "alternado"],
+        "designer": "Tomohiro Nishikado"
+    },
+    {
+        "id": "7",
+        "name": "E.T. the Extra-Terrestrial",
+        "release": 1982,
+        "genre": "aventura",
+        "mode": "jogador único",
+        "designer": "Howard Scott Warshaw"
+    },
+    {
+        "id": "8",
+        "name": "Missile Command",
+        "release": 1981,
+        "genre": "atirador",
+        "mode": "alternado",
+        "designer": "Dave Theurer"
+    },
+    {
+        "id": "9",
+        "name": "Football",
+        "release": 1978,
+        "genre": "esportes",
+        "mode": ["jogador único", "vários jogadores"],
+        "designer": "Steve Bristow"
+    },
+    {
+        "id": "10",
+        "name": "Battlezone",
+        "release": 1980,
+        "genre": "atirador",
+        "mode": "jogador único",
+        "designer": ["Ed Rotberg", "Owen Rubin", "Roger Hector"]
+    }
+]
